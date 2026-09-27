@@ -1,0 +1,18 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packet Tracer backups / temporary files
+*.bak
+*.tmp
+*.autosave
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Generated documentation files
+*.aux
+*.log
+*.out
